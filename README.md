@@ -1,18 +1,18 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:18/03/25
+### Date:18/03/25
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
 ### ALGORITHM:
-Import necessary libraries (NumPy, Matplotlib)
+1. Import necessary libraries (NumPy, Matplotlib)
 
-Load the dataset
+2. Load the dataset
 
-Calculate the linear trend values using least square method
+3. Calculate the linear trend values using least square method
 
-Calculate the polynomial trend values using least square method
+4. Calculate the polynomial trend values using least square method
 
-End the program
+5. End the program
 ### PROGRAM:
 ```
 NAME : ARCHANA T
@@ -81,11 +81,11 @@ print(f"Linear Trend Equation: y = {lin_a:.2f} + {lin_b:.2f}x")
 print(f"Polynomial Trend Equation: y = {poly_coeff[0]:.2f} + {poly_coeff[1]:.2f}x + {poly_coeff[2]:.2f}x²")
 ```
 ### OUTPUT
-A - LINEAR TREND ESTIMATION
+### A - LINEAR TREND ESTIMATION
 ![image](https://github.com/user-attachments/assets/0f875714-5e41-435f-b095-5e806aa8a408)
 
 
-B- POLYNOMIAL TREND ESTIMATION
+### B- POLYNOMIAL TREND ESTIMATION
 ![image](https://github.com/user-attachments/assets/8a4bce34-d25b-43c1-8a44-12e6aceef0bf)
 
 
